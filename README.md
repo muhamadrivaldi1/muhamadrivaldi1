@@ -1,7 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Muhamad Rivaldi</h1>
 
 <p align="center">
-  🎓 Computer Science Student at Universitas Pamulang | 💻 Frontend & Backend Developer | 🚀 Tech Enthusiast
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <span style="color:#f39c12;">
+      🎓 Computer Science Student at Universitas Pamulang | 💻 Frontend & Backend Developer | 🚀 Tech Enthusiast
+    </span>
+  </marquee>
 </p>
 
 ---
@@ -22,6 +26,7 @@ I'm a passionate **frontend and backend developer** who loves building intuitive
 **👨‍💻 Programming Languages:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 **🌐 Web Frameworks & Technologies:**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
