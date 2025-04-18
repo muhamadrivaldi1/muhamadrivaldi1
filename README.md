@@ -1,4 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Muhamad Rivaldi</h1>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Rivaldi;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
+  </h1>
+</div>
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
@@ -31,10 +35,12 @@ I'm a passionate **frontend and backend developer** who loves building intuitive
 **🌐 Web Frameworks & Technologies:**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+ ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 **💾 Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
 
 **🛠️ Tools & IDEs:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -45,8 +51,8 @@ I'm a passionate **frontend and backend developer** who loves building intuitive
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  ![Muhamadrivaldi1's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=muhamadrivaldi1)
 </p>
 
 ---
