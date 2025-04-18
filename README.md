@@ -35,12 +35,12 @@ I'm a passionate **frontend and backend developer** who loves building intuitive
 **🌐 Web Frameworks & Technologies:**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
 **💾 Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 **🛠️ Tools & IDEs:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -51,9 +51,10 @@ I'm a passionate **frontend and backend developer** who loves building intuitive
 ### 📊 GitHub Stats  
 
 <p align="center">
-  ![Muhamadrivaldi1's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=muhamadrivaldi1)
-</p>
+  ```markdown
+  ![Muhamadrivaldi1's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=radical)  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=muhamadrivaldi1&theme=radical)
+  ```
 
 ---
 
