@@ -18,7 +18,7 @@
 I'm a passionate **frontend and backend developer** who loves building intuitive and user-friendly applications. I specialize in **Laravel, PHP, and modern web technologies**, and I'm always eager to learn and collaborate on exciting projects.  
 
 - 💬 Ask me about **Laravel, PHP, web development**  
-- 📫 Reach me at **[muhamadrivaldi1@gmail.com](mailto:muhamadrivaldi1@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/muhamad-rivaldi-330b79271)**  
+- 📫 Reach me at **[muhamadrivaldi1@gmail.com](mailto:muhamadrivaldi577@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/muhamad-rivaldi-330b79271)**  
 ---
 
 ### 🛠️ Tech Stack & Tools  
