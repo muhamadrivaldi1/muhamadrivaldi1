@@ -51,10 +51,9 @@ I'm a passionate **frontend and backend developer** who loves building intuitive
 ### 📊 GitHub Stats  
 
 <p align="center">
-  ```markdown
-  ![Muhamadrivaldi1's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=radical)  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=muhamadrivaldi1&theme=radical)
-  ```
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=radical" alt="Muhamadrivaldi1's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=muhamadrivaldi1&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
