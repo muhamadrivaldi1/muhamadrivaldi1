@@ -22,7 +22,7 @@
 </div>
 
 ### 🎯 What I Do
-- 🔧 Build responsive web applications with **React.js** and **Tailwind CSS**
+- 🔧 Build responsive web applications with **React.js** and **Tailwind CSS** 
 - ⚡ Develop robust backend APIs using **Laravel** and **Node.js**
 - 💾 Design efficient database schemas with **MySQL** and **MongoDB**
 - 🎨 Create pixel-perfect UIs that users love
@@ -42,6 +42,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 </div>
 
@@ -49,6 +51,7 @@
 <div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE1C25?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -95,10 +98,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats & Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhamadrivaldi1&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
+
+<!-- Streaks -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadrivaldi1&theme=tokyonight" alt="GitHub Streak"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=tokyonight" alt="Top Languages"/>
+
+<!-- Overall Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+
 </div>
+
 
 ---
 
