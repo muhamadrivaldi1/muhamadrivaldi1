@@ -13,17 +13,31 @@
 
 ## 🚀 About Me
 
-
+```typescript
 const rivaldi = {
     role: "Full Stack Developer",
     education: "Computer Science @ Universitas Pamulang",
     location: "Indonesia 🇮🇩",
-    specialties: ["Frontend Development", "Backend Architecture", "API Design"],
+    specialties: [
+        "Frontend Development", 
+        "Backend Architecture", 
+        "API Design"
+    ],
     currentFocus: "Building scalable web applications with React & Laravel",
-    askMeAbout: ["React.js", "Laravel", "Node.js", "Database Design"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    askMeAbout: [
+        "React.js", 
+        "Laravel", 
+        "Node.js", 
+        "Database Design"
+    ],
+    funFact: "I debug with console.log() and I'm proud of it! 😄",
+    
+    // Personal Info
+    hobbies: ["Coding", "Gaming", "Learning New Tech"],
+    motto: "Code with passion, debug with patience",
+    availability: "Open to collaboration and new opportunities"
 };
-
+```
 
 ### 🎯 What I Do
 - 🔧 Build responsive web applications with **React.js** and **Tailwind CSS**
