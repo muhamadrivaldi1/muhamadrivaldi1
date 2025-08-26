@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-```typescript
+
 const rivaldi = {
     role: "Full Stack Developer",
     education: "Computer Science @ Universitas Pamulang",
@@ -23,7 +23,7 @@ const rivaldi = {
     askMeAbout: ["React.js", "Laravel", "Node.js", "Database Design"],
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
-```
+
 
 ### 🎯 What I Do
 - 🔧 Build responsive web applications with **React.js** and **Tailwind CSS**
