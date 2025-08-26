@@ -89,10 +89,6 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhamadrivaldi1&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadrivaldi1&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
@@ -101,10 +97,16 @@
 ## 🏆 GitHub Stats & Trophies
 <div align="center">
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="600"/>
+<!-- Trophy Badges -->
+![🏅 Top Languages](https://img.shields.io/badge/Top_Languages-🌟-brightgreen?style=for-the-badge)
+![🥇 Repositories](https://img.shields.io/badge/Repositories-💻-blue?style=for-the-badge)
+![🏆 Stars](https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge)
+![🎖️ Followers](https://img.shields.io/badge/Followers-👥-orange?style=for-the-badge)
 
-<!-- Overall Stats -->
+<br><br>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="600"/>
 <img src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="600"/>
 
 </div>
