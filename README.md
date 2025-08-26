@@ -108,9 +108,10 @@
 
 | Project | Tech Stack | Description | Live Demo |
 |---------|------------|-------------|-----------|
-| 🌟 **Coming Soon** | React + Laravel | Modern web application | 🔗 Link |
-| 🎯 **Portfolio Website** | Next.js + Tailwind | Personal portfolio site | 🔗 Link |
-| 📱 **E-Commerce App** | React + Node.js | Full-stack shopping platform | 🔗 Link |
+| 🌟 **POS(POINT OFF SALE)** | React + Laravel | Modern web application | 🔗 Link |
+| 🎯 **SISTEM PAKAR(Diagnosa Penyakit Pencernaan)** | Next.js + Tailwind | Personal portfolio site | 🔗 Link |
+| 📱 **ABSENSI BERBASIS FOTO SELFI** | Laravel + Blade | Full-stack | 🔗 Link |
+| 📱 **TAGIHAN INTERNET** | PHP NATIVE | Full-stack end Payment Gatway | 🔗 Link |
 
 </div>
 
