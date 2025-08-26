@@ -13,52 +13,13 @@
 
 ## 🚀 About Me
 
-# 👋 Hey there! I'm Rivaldi
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel+Enthusiast;Always+Learning+New+Tech;Building+Amazing+Web+Apps" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel+Enthusiast;Always+Learning+New+Tech;Building+Amazing+Web+Apps;👋 Welcome to my profile!"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhamadrivaldi1&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/muhamadrivaldi1?color=0ea5e9&style=flat-square&label=Followers" alt="Followers"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&color=38B2AC&center=true&vCenter=true&width=500&lines=Role:+Full+Stack+Developer;Location:+Indonesia;Specialties:+Frontend+%26+Backend+Architecture;Current+Focus:+React+%26+Laravel;Fun+Fact:+I+debug+with+console.log()"/>
 </div>
-
----
-
-## 🚀 About Me
-
-```javascript
-const rivaldi = {
-    role: "Full Stack Developer",
-    education: "Computer Science @ Universitas Pamulang", 
-    location: "Indonesia 🇮🇩",
-    
-    specialties: [
-        "Frontend Development",
-        "Backend Architecture", 
-        "API Design"
-    ],
-    
-    currentFocus: "Building scalable web applications with React & Laravel",
-    
-    askMeAbout: [
-        "React.js",
-        "Laravel", 
-        "Node.js",
-        "Database Design"
-    ],
-    
-    funFact: "I debug with console.log() and I'm proud of it! 😄",
-    
-    // Personal Info
-    hobbies: ["Coding", "Gaming", "Learning New Tech"],
-    motto: "Code with passion, debug with patience",
-    availability: "Open to collaboration and new opportunities"
-};
-
-console.log("Welcome to my profile! 👋");
-```
 
 ### 🎯 What I Do
 - 🔧 Build responsive web applications with **React.js** and **Tailwind CSS**
