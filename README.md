@@ -13,8 +13,8 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel+Enthusiast;Always+Learning+New+Tech;Building+Amazing+Web+Apps;👋 Welcome to my profile!"/>
+<<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=0EA5E9&center=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel;Always+Learning;Building+Web+Apps;Welcome!" alt="Typing SVG"/>
 </div>
 
 <div align="center">
