@@ -121,7 +121,7 @@
 | Project | Tech Stack | Description | Live Demo |
 |---------|------------|-------------|-----------|
 | 🌟 **POS(POINT OFF SALE)** | React + Laravel | Modern web application | 🔗 Link |
-| 🎯 **SISTEM PAKAR(Diagnosa Penyakit Pencernaan)** | Next.js + Tailwind | Personal portfolio site | 🔗 Link |
+| 🎯 **SISTEM PAKAR(Diagnosa Penyakit Pencernaan)** | PHP NATIVE + Tailwind | Personal portfolio site | 🔗 Link |
 | 📱 **ABSENSI BERBASIS FOTO SELFI** | Laravel + Blade | Full-stack | 🔗 Link |
 | 📱 **TAGIHAN INTERNET** | PHP NATIVE | Full-stack end Payment Gatway | 🔗 Link |
 
