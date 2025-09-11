@@ -5,7 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhamadrivaldi1&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://avatars.githubusercontent.com/u/141536245?v=4" alt="Rivaldi's photo" width="200" style="border-radius:50%; margin-bottom:20px;" />
+
   <img src="https://img.shields.io/github/followers/muhamadrivaldi1?color=0ea5e9&style=flat-square&label=Followers" alt="Followers"/>
 </div>
 
