@@ -106,14 +106,6 @@
 
 <br><br>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="600"/>
-<img src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="600"/>
-
-</div>
-
-
----
 
 ## 🚀 Featured Projects
 
@@ -144,15 +136,6 @@ HTML                         0 hrs 38 mins   █░░░░░░░░░░�
 
 ---
 
-## 🎯 Current Goals
-
-- 🚀 Master **React 18** with Server Components
-- 🌐 Build microservices with **Laravel** and **Docker**
-- 📱 Create mobile apps with **React Native**
-- 🤖 Explore **AI/ML** integration in web apps
-- 🎨 Improve **UI/UX** design skills
-
----
 
 ## 🤝 Let's Connect!
 
