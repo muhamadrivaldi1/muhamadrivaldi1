@@ -15,8 +15,6 @@
 - ⚡ Develop robust backend APIs using **Laravel** and **Node.js**
 - 💾 Design efficient database schemas with **MySQL** and **MongoDB**
 - 🎨 Create pixel-perfect UIs that users love
-- 📚 Constantly learning new technologies and best practices
-
 ---
 
 ## 🛠️ Tech Arsenal
@@ -78,6 +76,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 </div>
 
