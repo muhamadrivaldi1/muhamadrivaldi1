@@ -88,11 +88,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=tokyonight"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadrivaldi1&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 ---
 
 ## 🏆 GitHub Stats & Trophies
