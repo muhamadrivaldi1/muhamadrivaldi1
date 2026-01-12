@@ -79,19 +79,38 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=tokyonight&hide_title=true" height="180px"/>
 </div>
----
+
 
 ## 🏆 GitHub Stats & Trophies
 <div align="center">
 
-<!-- Trophy Badges -->
-![🏅 Top Languages](https://img.shields.io/badge/Top_Languages-🌟-brightgreen?style=for-the-badge)
-![🥇 Repositories](https://img.shields.io/badge/Repositories-💻-blue?style=for-the-badge)
-![🏆 Stars](https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge)
-![🎖️ Followers](https://img.shields.io/badge/Followers-👥-orange?style=for-the-badge)
+<!-- GitHub Stats Cards -->
+<table>
+  <tr>
+    <td align="center">
+      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+      <br>
+      <sub><b>Total Contributions & Stats</b></sub>
+    </td>
+    <td align="center">
+      <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=radical" />
+      <br>
+      <sub><b>Top Languages</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=muhamadrivaldi1&theme=radical&no-frame=true&column=5" />
+      <br>
+      <sub><b>GitHub Trophies</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br><br>
 
