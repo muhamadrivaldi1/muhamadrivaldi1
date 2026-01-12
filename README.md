@@ -10,12 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&color=38B2AC&center=true&vCenter=true&width=500&lines=Role:+Full+Stack+Developer;Location:+Indonesia;Specialties:+Frontend+%26+Backend+Architecture;Current+Focus:+React+%26+Laravel;Fun+Fact:+I+debug+with+console.log()"/>
 </div>
 
-### 🎯 What I Do
-- 🔧 Build responsive web applications with **React.js** and **Tailwind CSS** 
-- ⚡ Develop robust backend APIs using **Laravel** and **Node.js**
-- 💾 Design efficient database schemas with **MySQL** and **MongoDB**
-- 🎨 Create pixel-perfect UIs that users love
----
 
 ## 🛠️ Tech Arsenal
 
