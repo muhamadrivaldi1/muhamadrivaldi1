@@ -74,51 +74,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics & Stats
-<div align="center">
-
-<!-- Total Contributions & Stats -->
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
-
-<!-- Top Languages -->
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=radical" />
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=muhamadrivaldi1&theme=radical&no-frame=true&column=5" />
-
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Description | Live Demo |
-|---------|------------|-------------|-----------|
-| 🌟 **POS(POINT OFF SALE)** | React + Laravel | Modern web application | 🔗 Link |
-| 🎯 **SISTEM PAKAR(Diagnosa Penyakit Pencernaan)** | PHP NATIVE + Tailwind | Personal portfolio site | 🔗 Link |
-| 📱 **ABSENSI BERBASIS FOTO SELFI** | Laravel + Blade | Full-stack | 🔗 Link |
-| 📱 **TAGIHAN INTERNET** | PHP NATIVE | Full-stack end Payment Gatway | 🔗 Link |
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-PHP/Laravel                  8 hrs 15 mins   ████████░░░░░░░░░░░░░   40.2%
-JavaScript/nodejs/reactjs    6 hrs 30 mins   ████████░░░░░░░░░░░░░   31.8%
-TypeScript                   3 hrs 45 mins   ██████░░░░░░░░░░░░░░░   18.3%
-CSS                          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░    6.5%
-HTML                         0 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░    3.2%
-```
-<!--END_SECTION:waka-->
-
----
-
 
 ## 🤝 Let's Connect!
 
