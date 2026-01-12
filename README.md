@@ -76,44 +76,19 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=tokyonight&hide_title=true" height="180px"/>
-</div>
-
-
-## 🏆 GitHub Stats & Trophies
+## 📊 GitHub Analytics & Stats
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<table>
-  <tr>
-    <td align="center">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-      <br>
-      <sub><b>Total Contributions & Stats</b></sub>
-    </td>
-    <td align="center">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=radical" />
-      <br>
-      <sub><b>Top Languages</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=muhamadrivaldi1&theme=radical&no-frame=true&column=5" />
-      <br>
-      <sub><b>GitHub Trophies</b></sub>
-    </td>
-  </tr>
-</table>
+<!-- Total Contributions & Stats -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+
+<!-- Top Languages -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=radical" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=muhamadrivaldi1&theme=radical&no-frame=true&column=5" />
 
 </div>
-
-<br><br>
-
 
 ## 🚀 Featured Projects
 
