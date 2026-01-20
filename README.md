@@ -1,38 +1,33 @@
-<!-- HEADER -->
-<p align="center">
-  <img width="150" src="https://avatars.githubusercontent.com/u/???&s=400" alt="Muhamad Rivaldi" style="border-radius:50%;"/>
-</p>
-
-<h1 align="center">👋 Hey there! I'm Rivaldi</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel+Enthusiast;Always+Learning;Building+Web+Apps" alt="Typing SVG"/>
-</div>
-
-<div align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=muhamadrivaldi1&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/muhamadrivaldi1?color=0ea5e9&style=flat-square&label=Followers" alt="Followers"/>
-</div>
-
----
+# 👋 Hey there! I'm Rivaldi <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel+Enthusiast;Always+Learning+New+Tech;Building+Amazing+Web+Apps" alt="Typing SVG"/> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=muhamadrivaldi1&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/muhamadrivaldi1?color=0ea5e9&style=flat-square&label=Followers" alt="Followers"/> </div>
 
 ## 🚀 About Me
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&color=38B2AC&center=true&vCenter=true&width=600&lines=Role:+Full+Stack+Developer;Location:+Indonesia;Specialties:+Frontend+%26+Backend;Current+Focus:+React+%26+Laravel;Fun+Fact:+I+debug+with+console.log()" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=0EA5E9&center=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel;Always+Learning;Building+Web+Apps;Welcome!" alt="Typing SVG"/>
 </div>
 
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&color=38B2AC&center=true&vCenter=true&width=500&lines=Role:+Full+Stack+Developer;Location:+Indonesia;Specialties:+Frontend+%26+Backend+Architecture;Current+Focus:+React+%26+Laravel;Fun+Fact:+I+debug+with+console.log()"/>
+</div>
+
+
+## 🛠️ Tech Arsenal
 
 ### 🎨 Design Tools
+<div align="center">
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
-### 🌐 Frontend
+</div>
+
+
+### Frontend Magic ✨
+<div align="center">
+
+### 🚀 Frontend Tech Stack
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,8 +36,14 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚡ Backend
+
+</div>
+
+### Backend Power 💪
+<div align="center">
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE1C25?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -50,13 +51,21 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 💾 Database & Cloud
+</div>
+
+### Database & Cloud ☁️
+<div align="center">
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠 Tools
+</div>
+
+### Development Tools 🔧
+<div align="center">
+
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -65,17 +74,20 @@
 
 </div>
 
----
 
-## 📊 GitHub Stats
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadrivaldi1&theme=gruvbox&hide_border=true" />
+  <!-- Main Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=dracula&hide_border=true" />
+
+  <!-- Streak / Activity -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadrivaldi1&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=gruvbox&hide_border=true" />
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -84,32 +96,40 @@
 
 <p align="center">
   <a href="https://github.com/muhamadrivaldi1/SIM-Hotel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadrivaldi1&repo=SIM-Hotel&theme=gruvbox" alt="SIM-Hotel"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadrivaldi1&repo=SIM-Hotel&theme=dracula" alt="SIM-Hotel"/>
   </a>
   <a href="https://github.com/muhamadrivaldi1/muhamad-rivaldi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadrivaldi1&repo=muhamad-rivaldi&theme=gruvbox" alt="muhamad-rivaldi"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadrivaldi1&repo=muhamad-rivaldi&theme=dracula" alt="muhamad-rivaldi"/>
   </a>
   <a href="https://github.com/muhamadrivali1/simple-program">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadrivaldi1&repo=simple-program&theme=gruvbox" alt="simple-program"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadrivaldi1&repo=simple-program&theme=dracula" alt="simple-program"/>
   </a>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+
+
+## 🤝 Let's Connect!
+
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-rivaldi-330b79271)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/muhamadrivalldi_)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamadrivaldi577@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://muhamadrivaldi.my.id)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-rivaldi-330b79271)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/muhamadrivalldi_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamadrivaldi577@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://muhamadrivaldi.my.id)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=16&fontAlignY=65&desc=Let's+build+something+amazing+together&descAlignY=50&descAlign=center"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=50&descAlign=center"/>
 </div>
 
 <div align="center">
-  <i>⭐ From [muhamadrivaldi1](https://github.com/muhamadrivaldi1) with ❤️</i>
+  <i>⭐️ From [muhamadrivaldi1](https://github.com/muhamadrivaldi1) with ❤️</i>
 </div>
+buat lebih keren dan modern dan enak dilihat tidak bikin pusing dan saya ingin ada foto saya di pas # 👋 Hey there! I'm Rivaldi
+bauat lebih wah file readme ini 
+perbaiki agar lebih elegant tapi menunjukan siapa saya
