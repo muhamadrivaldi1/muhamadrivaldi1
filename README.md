@@ -75,6 +75,41 @@
 </div>
 
 
+## 🔥 GitHub Stats
+
+<p align="center">
+  <!-- Main Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=dracula&hide_border=true" />
+
+  <!-- Streak / Activity -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadrivaldi1&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Popular Repositories
+
+<p align="center">
+  <a href="https://github.com/muhamadrivaldi1/SIM-Hotel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadrivaldi1&repo=SIM-Hotel&theme=dracula" alt="SIM-Hotel"/>
+  </a>
+  <a href="https://github.com/muhamadrivaldi1/muhamad-rivaldi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadrivaldi1&repo=muhamad-rivaldi&theme=dracula" alt="muhamad-rivaldi"/>
+  </a>
+  <a href="https://github.com/muhamadrivali1/simple-program">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadrivaldi1&repo=simple-program&theme=dracula" alt="simple-program"/>
+  </a>
+</p>
+
+---
+
+
+
 ## 🤝 Let's Connect!
 
 <div align="center">
