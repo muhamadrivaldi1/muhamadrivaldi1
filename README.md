@@ -130,6 +130,3 @@
 <div align="center">
   <i>⭐️ From [muhamadrivaldi1](https://github.com/muhamadrivaldi1) with ❤️</i>
 </div>
-buat lebih keren dan modern dan enak dilihat tidak bikin pusing dan saya ingin ada foto saya di pas # 👋 Hey there! I'm Rivaldi
-bauat lebih wah file readme ini 
-perbaiki agar lebih elegant tapi menunjukan siapa saya
