@@ -80,9 +80,6 @@
 <p align="center">
   <!-- Main Stats -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=dracula&hide_border=true" />
-
-  <!-- Streak / Activity -->
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadrivaldi1&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
