@@ -79,19 +79,21 @@
 
 <p align="center">
   <!-- Main Stats -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Muhamad Rivaldi's GitHub Stats" />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=dracula&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=muhamadrivaldi1&theme=dracula)](https://github.com/muhamadrivaldi1)
+  <!-- GitHub Streak -->
+  <a href="https://github.com/muhamadrivaldi1" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=muhamadrivaldi1&theme=dracula" alt="GitHub Streak" />
+  </a>
 </p>
 
----
 
 ## 🏆 Featured Projects
 
