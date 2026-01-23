@@ -88,9 +88,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhamadrivaldi1&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=muhamadrivaldi1&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ---
 
