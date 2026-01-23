@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhamadrivaldi1&theme=dark&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=muhamadrivaldi1&theme=dracula)](https://github.com/muhamadrivaldi1)
 </p>
 
 ---
