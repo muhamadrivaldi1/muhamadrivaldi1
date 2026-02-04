@@ -78,20 +78,15 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <!-- Main Stats -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Muhamad Rivaldi's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=muhamadrivaldi1&show_icons=true&theme=dracula&count_private=true" alt="Muhamad Rivaldi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrivaldi1&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
-  <a href="https://github.com/muhamadrivaldi1" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=muhamadrivaldi1&theme=dracula" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadrivaldi1&theme=dracula" alt="GitHub Streak" />
 </p>
 
 
