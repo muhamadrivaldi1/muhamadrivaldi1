@@ -1,5 +1,3 @@
-
-malah tidak aktif semuanya 
 # 👋 Hey there! I'm Rivaldi <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel+Enthusiast;Always+Learning+New+Tech;Building+Amazing+Web+Apps" alt="Typing SVG"/> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=muhamadrivaldi1&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/muhamadrivaldi1?color=0ea5e9&style=flat-square&label=Followers" alt="Followers"/> </div>
 
 ## 🚀 About Me
